@@ -22,8 +22,7 @@ Save 30 points first to win the game!
 ### Installing
 
 * No installation is necessary. Simply click on the link below to start playing!
-
-https://jyoungjoon.github.io/pig-game
+[Pig Game](https://jyoungjoon.github.io/pig-game)
 
 ## Authors
 
