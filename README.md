@@ -31,7 +31,7 @@ Young Jang
 [@lif3scriptified](https://twitter.com/lif3scriptified)
 
 Jonas Schmedtmann (provider of starter code)
-[@@jonasschmedtman](https://twitter.com/jonasschmedtman)
+[@jonasschmedtman](https://twitter.com/jonasschmedtman)
 
 ## Version History
 
