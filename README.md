@@ -21,7 +21,9 @@ Save 30 points first to win the game!
 
 ### Installing
 
-* No installation is necessary.
+* No installation is necessary. Simply click on the link below to start playing!
+
+https://jyoungjoon.github.io/pig-game
 
 ## Authors
 
@@ -30,7 +32,7 @@ Contributors names and contact info
 Young Jang  
 [@lif3scriptified](https://twitter.com/lif3scriptified)
 
-Jonas Schmedtmann (provider of starter code)
+Provider of Start Code: Jonas Schmedtmann
 [@jonasschmedtman](https://twitter.com/jonasschmedtman)
 
 ## Version History
